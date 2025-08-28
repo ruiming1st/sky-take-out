@@ -58,3 +58,45 @@ The system follows a frontend-backend separation architecture.
 
 
 ### 🏪 Admin Side
+<p align="center">
+  <img width="1138" height="626" alt="概览" src="https://github.com/user-attachments/assets/9cccd3c1-b79c-4112-9e2c-83d016de4d92" />
+  <em>Main Interface</em>
+</p>
+
+<p align="center">
+  <img width="1097" height="614" alt="菜品管理" src="https://github.com/user-attachments/assets/f8cc5643-bd86-474f-9778-d690bab8a0d2" />
+  <br>
+  <em>Main Interface</em>
+</p>
+
+<p align="center">
+  <img width="1093" height="458" alt="菜品添加修改" src="https://github.com/user-attachments/assets/c70b093c-4847-4459-a712-4a5df22bf05d" />
+  <br>
+  <em>Add/Edit Dish</em>
+</p>
+
+<p align="center">
+  <img width="680" height="491" alt="接单功能" src="https://github.com/user-attachments/assets/319ac1d1-598d-4966-a99a-443d4e3f0e1f" />
+  <br>
+  <em>Accept Order</em>
+</p>
+
+<p align="center">
+  <img width="957" height="301" alt="订单一览" src="https://github.com/user-attachments/assets/89d84836-9d94-487d-abd3-b3cef47f6c49" />
+  <br>
+  <em>Order Overview</em>
+</p>
+
+<p align="center">
+  <img width="1166" height="636" alt="销量统计图表" src="https://github.com/user-attachments/assets/55a8c9df-a06d-4c67-963a-e04d54ecee41" />
+  <br>
+  <em>Sales Statistics Chart</em>
+</p>
+
+
+
+
+
+
+
+
