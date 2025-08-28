@@ -66,7 +66,7 @@ The system follows a frontend-backend separation architecture.
 <p align="center">
   <img width="1097" height="614" alt="菜品管理" src="https://github.com/user-attachments/assets/f8cc5643-bd86-474f-9778-d690bab8a0d2" />
   <br>
-  <em>Main Interface</em>
+  <em>Dish Management</em>
 </p>
 
 <p align="center">
